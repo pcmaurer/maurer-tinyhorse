@@ -1,0 +1,9 @@
+/* CSS for Tiny Horse duplicate project */
+
+/* Copied from */
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
